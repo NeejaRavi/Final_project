@@ -8,14 +8,14 @@ This project automates the creation of **educational videos** using **Generative
 - A complete video using MoviePy,
 - A quiz based on the video with answer evaluation using Sentence Transformers.
 
-### 🔍 Use Case
+### Use Case
 - Personalized learning content
 - Rapid creation of explainer videos
 - Interactive educational tools
 
 ---
 
-## 🛠️ Features
+## Features
 
 ✅ Accepts any user query on a topic  
 ✅ Option to choose **Focus** (Theory / Application / General)  
@@ -31,7 +31,7 @@ This project automates the creation of **educational videos** using **Generative
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 | Module              | Tool / Library                          |
 |---------------------|-----------------------------------------|
@@ -44,7 +44,7 @@ This project automates the creation of **educational videos** using **Generative
 
 ---
 
-## 🧠 AI Workflow
+## AI Workflow
 
 1. **Text Explanation**:  
    Gemini generates a structured explanation for the topic.
